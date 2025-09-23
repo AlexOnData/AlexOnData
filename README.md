@@ -16,6 +16,12 @@
 
 🎲 **Fun fact:** I drink more ☕ when training models than when I am training at the gym. 🏋🏻‍♂️
 
+🌐 Contact me:
+Feel free to reach out for collaborations, projects, or just to say hi!👋<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexmarcean)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:business.marcean.alex@gmail.com)  
+
 ---
 
 <div align="center">
@@ -59,7 +65,7 @@
 
 # 🌐 Contact me:
 
-Feel free to reach out for collaborations, projects, or just to say hi! 👋<br>
+Feel free to reach out for collaborations, projects, or just to say hi!👋<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexmarcean)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:business.marcean.alex@gmail.com)  
