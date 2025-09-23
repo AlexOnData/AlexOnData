@@ -9,7 +9,7 @@ Experienced Data Analyst ⚡ Skilled in Python, SQL & Power BI.  <br><br>🎓 Ma
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlexOnData&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AlexOnData&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=AlexOnData&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOnData&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
