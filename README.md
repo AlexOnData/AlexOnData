@@ -1,11 +1,11 @@
 # 👨🏻‍💻 About Me:
 Experienced Data Analyst ⚡ Skilled in Python, SQL & Power BI.
 
-🎓 Math & CS student at Transilvania University of Brașov <br>
-🌍 Former Erasmus student at Hochschule Heilbronn, Germany
-📊 Passionate about building dashboards, automations & forecasts
-🤖 Currently expanding my skills with Machine Learning and AI
-🔍 Always looking for exciting projects in Data Analysis & Data Science
+🎓 Math & CS student at Transilvania University of Brașov<br>
+🌍 Former Erasmus student at Hochschule Heilbronn, Germany<br>
+📊 Passionate about building dashboards, automations & forecasts<br>
+🤖 Currently expanding my skills with Machine Learning and AI<br>
+🔍 Always looking for exciting projects in Data Analysis & Data Science<br>
 
 🚀 Check out my current project: [Financial Time Series Forecasting](https://github.com/AlexOnData/DaAn_Financial-Time-Series-Forecasting)
 
