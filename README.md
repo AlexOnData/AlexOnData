@@ -16,7 +16,7 @@
 
 🎲 **Fun fact:** I drink more ☕ when training models than when I am training at the gym. 🏋🏻‍♂️
 
-🌐 Contact me:
+🌐 Contact me:<br>
 Feel free to reach out for collaborations, projects, or just to say hi!👋<br>
 <div align="center">
   
