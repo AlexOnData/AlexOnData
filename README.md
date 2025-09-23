@@ -67,3 +67,10 @@ Feel free to reach out for collaborations, projects, or just to say hi!👋<br>
 ---
 
 </div>
+
+---
+
+## 👀 Profile Views
+![Visitors](https://komarev.com/ghpvc/?username=AlexOnData&color=blue)
+[![Hits](https://hits.sh/github.com/AlexOnData/AlexOnData.svg?style=flat-square)](https://hits.sh/github.com/AlexOnData/AlexOnData/)
+
