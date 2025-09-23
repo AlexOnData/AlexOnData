@@ -68,6 +68,5 @@ Feel free to reach out for collaborations, projects, or just to say hi!👋<br>
 
 # 👀 Profile Views
 ![Visitors](https://komarev.com/ghpvc/?username=AlexOnData&color=blue&style=flat-square)
-[![Hits](https://hits.sh/github.com/AlexOnData/DaAn_Financial-Time-Series-Forecasting.svg?color=green&label=Hits-On-Last-Project)](https://hits.sh/github.com/AlexOnData/DaAn_Financial-Time-Series-Forecasting/)
 
 </div>
