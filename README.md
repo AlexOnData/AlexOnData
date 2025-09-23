@@ -9,7 +9,7 @@ Experienced Data Analyst ⚡ Skilled in Python, SQL & Power BI.
 
 🚀 Check out my current project: [Financial Time Series Forecasting](https://github.com/AlexOnData/DaAn_Financial-Time-Series-Forecasting)
 
-🎲 Fun fact: I drink more coffee when training models than when training at the gym.
+🎲 **Fun fact:** I drink more ☕ when training models than when I am training at the gym. 🏋🏻‍♂️
 
 ---
 
