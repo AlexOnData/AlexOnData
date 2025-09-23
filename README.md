@@ -1,5 +1,7 @@
 <div align="center">
+  
 # 👨🏻‍💻 About Me:
+
 </div>
 
 Experienced Data Analyst ⚡ Skilled in Python, SQL & Power BI.
