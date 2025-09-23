@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👨🏻‍💻 About Me:
 Experienced Data Analyst ⚡ Skilled in Python, SQL & Power BI.
 
@@ -14,6 +12,7 @@ Experienced Data Analyst ⚡ Skilled in Python, SQL & Power BI.
 🎲 **Fun fact:** I drink more ☕ when training models than when I am training at the gym. 🏋🏻‍♂️
 
 ---
+<div align="center">
 
 # 💻 Tech Stack:
 ### 🖥️ Programming Languages
