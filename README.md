@@ -29,7 +29,7 @@ Sunt un Data Analyst pasionat de transformarea datelor în informații valoroase
 - [Portofoliu](link) - Portofoliu complet cu dashboard-uri interactive
 
 ## Statistici GitHub
-![Statistici GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Statistici GitHub](https://github-readme-stats.vercel.app/api?username=AlexOnData&show_icons=true&theme=radical)
 
 ## Conectează-te cu mine
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/USERNAME/)
