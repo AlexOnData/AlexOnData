@@ -2,9 +2,9 @@
   
 # 👨🏻‍💻 About Me:
 
-Experienced Data Analyst ⚡ Skilled in Python, SQL & Power BI.
-
 </div>
+
+💼 Experienced Data Analyst ⚡ Skilled in Python, SQL & Power BI.
 
 🎓 Math & CS student at Transilvania University of Brașov<br>
 🌍 Former Erasmus student at Hochschule Heilbronn, Germany<br>
