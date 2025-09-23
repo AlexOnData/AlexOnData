@@ -1,4 +1,7 @@
+<div align="center">
 # 👨🏻‍💻 About Me:
+</div>
+
 Experienced Data Analyst ⚡ Skilled in Python, SQL & Power BI.
 
 🎓 Math & CS student at Transilvania University of Brașov<br>
