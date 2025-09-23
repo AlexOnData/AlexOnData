@@ -54,8 +54,10 @@ Experienced Data Analyst ⚡ Skilled in Python, SQL & Power BI.
 
 ---
 
-# 🌐 Socials:
+# 🌐 Contact me:
 <div align="center">
+
+Feel free to reach out for collaborations, projects, or just to say hi! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexmarcean)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:business.marcean.alex@gmail.com)  
