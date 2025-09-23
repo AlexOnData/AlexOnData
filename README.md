@@ -16,6 +16,8 @@
 
 🎲 **Fun fact:** I drink more ☕ when training models than when I am training at the gym. 🏋🏻‍♂️
 
+---
+
 <div align="center">
 
 # 💻 Tech Stack:
@@ -43,6 +45,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
+---
+
 # 📊 GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlexOnData&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br>
@@ -50,6 +54,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOnData&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=AlexOnData&theme=dark&hide_border=false" /><br>
+
+---
 
 # 🌐 Contact me:
 
