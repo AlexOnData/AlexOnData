@@ -12,7 +12,7 @@
 🤖 Currently expanding my skills with Machine Learning and AI<br>
 🔍 Always looking for exciting projects in Data Analysis & Data Science<br>
 
-🚀 Check out my current project: [Financial Time Series Forecasting](https://github.com/AlexOnData/DaAn_Financial-Time-Series-Forecasting)
+🚀 Check out my last project: [TCP - Trading Central Panel](https://github.com/AlexOnData/tcp-trading-central-panel)
 
 🎲 **Fun fact:** I drink more ☕ when training models than when I am training at the gym. 🏋🏻‍♂️
 
